@@ -1,0 +1,50 @@
+#header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 2px 2px 5px rgb(1, 1, 1);
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+#serImg{
+    width: 20px;
+    height: 20px;
+    
+}
+#profile{
+    width: 15px;
+    height: 15px;
+}
+input{
+    background-color: rgb(241, 241, 241);
+    border: 0px solid black;
+    outline-width: 0;
+}
+#profile1{
+    font-size: x-small;
+    text-align: center;
+    display: inline;
+    flex-direction: column;
+    gap: 0px;
+}
+#profile2{
+    width: 20px;
+    height: 20px;
+}
+#search{
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    padding: 5px;
+    width: 30%;
+}
+#last{
+
+    justify-content: space-between;
+    width: 15%;
+    display: flex;
+
+}
