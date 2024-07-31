@@ -1,0 +1,44 @@
+#hi{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.word{
+    margin: auto 50px;
+    color: aliceblue;
+    
+}
+div a{
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+}
+div a:hover{
+    background-color: aqua;
+    
+   
+}
+a:visited{
+    text-decoration: none;
+    color: inherit;
+    
+}
+div a:hover .word{
+    color: #333;
+}
+#center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

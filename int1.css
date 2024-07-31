@@ -1,0 +1,24 @@
+.blk{
+    background-color: black;
+}
+.blue{
+    background-color: rgb(91, 91, 173);
+}
+#white{
+    color: white;
+}
+#yellow{
+    color: yellow;
+}
+#red{
+    color: red;
+}
+#lightor{
+    color: chocolate;
+}
+#orange{
+    color: rgb(230, 152, 8);
+}
+#darkyellow{
+    color: rgb(248, 109, 16);
+}

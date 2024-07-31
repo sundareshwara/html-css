@@ -1,0 +1,19 @@
+body{
+    background-image: url('https://cdn.wallpapersafari.com/97/97/8ISOyQ.jpg');
+}
+p{
+color: rgb(142, 207, 199);
+background-color: bisque;
+}
+input{
+color: rgb(42, 90, 84);
+background-color: rgb(19, 160, 66);
+}
+span:hover{
+color: rgb(33, 107, 18);
+background-color: cadetblue;
+
+}
+#sun{
+color: rgb(221, 83, 83);
+}
