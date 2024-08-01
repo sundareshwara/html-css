@@ -1,0 +1,42 @@
+div{
+    display: flex;
+    flex-direction: column;
+   
+}
+#side{
+    width: 300px;
+    border: 1px solid red;
+
+}
+.gender{
+font-weight: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#sale{
+    height: 200px;
+    width: 150px;
+    border-radius: 10%;
+}
+.sale{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    text-align: center;
+    gap: 10px;
+  
+}
+h4{
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 50px;
+}
+.all{
+    display: flex;
+    flex-direction: row;
+
+}
