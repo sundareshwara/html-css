@@ -1,53 +1,51 @@
-#f{
-    width: 100px;
-    height: 150px;
-    background-color: dodgerblue;
-     display: flex;
-    align-items: flex-end;
-    justify-content: right; 
-    padding: 0;
-    padding-right: 60px;
-    padding-bottom: 0px;
-    border-radius: 50%;
-    margin-left: 20px;
-    
+
+#fa{
+display: flex;
+flex-direction: column;
+gap: 0;
+
+    justify-content: center;
+    align-items: center;
 }
 #i{
-    margin: 0;
+    
     color: aliceblue;
-    font-size: 145px;
-    text-align: center;
-    padding: 0;
+    font-size: 185px;
    
+   margin: 0;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
-h3{
-    color: dodgerblue;
-    padding-top: 25px;
-    font-size: 85px;
+#single{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
-
-div{
-    margin: 0;
-    height: 100%;
-   
+#second{
     display: flex;
     justify-content: center;
     align-items: center;
 }
+h3{
+    color: dodgerblue;
+    
+    font-size: 85px;
+}
 #hi{
-    margin: 0;
-    height: 100%;
-   font-family: fantasy;
-    display: flex;
-    justify-content: center;
-    align-items: center; 
+   font-family: fantasy;  
 }
 img{
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
+   
    width: 60px;
-   height: 5dvh; 
+}#f{
+    width: 150px;
+    height: 150px;
+    background-color: dodgerblue;
+     display: flex;
+    justify-content: center; 
+    align-items: center;
+    border-radius: 50%;  
+    padding-bottom: 0px;
 
 }
